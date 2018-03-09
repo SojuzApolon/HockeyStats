@@ -4,4 +4,4 @@ Some statistic about what I'm know about Ice Hockey on JavaScript language
 Republic of Belarus<br>
 Arenas (3)
 
-Basics Javascript
+From basics Javascript
