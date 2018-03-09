@@ -5,3 +5,4 @@ Republic of Belarus<br>
 Arenas (3)
 
 From basics Javascript
+  using canvas element 
